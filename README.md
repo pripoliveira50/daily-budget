@@ -18,7 +18,7 @@ Application that shows how much you can spend daily from a predefined income
 -   [x] install libs node_modules
 
 ```
-$ yarn install --force
+$ yarn install
 ```
 
 -   [x] (install lib in ios)
