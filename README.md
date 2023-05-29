@@ -8,8 +8,8 @@
 
 Application that shows how much you can spend daily from a predefined income
 
--   [x] This project uses .env to generate app.json and more environment variables.
-        These settings are necessary to run the project.
+-   [x] This project uses .env to generate app.json and more environment variables. These settings are necessary to run the project.
+-   [x] This project uses commitzen, commitlint and husky with lint-staged
 
 ## Run and clone this project
 
